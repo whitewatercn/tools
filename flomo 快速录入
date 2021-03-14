@@ -1,0 +1,30 @@
+基于https://github.com/flomoapp/3rd-party-tools/discussions/18 完成，使用 iPhone、ipad 打开下载链接，安装好捷径后填写自己的 api 即可
+
+![Pasted Graphic](https://user-images.githubusercontent.com/58654928/111063293-b510fa80-84e8-11eb-84fc-4d8af5041a70.jpg)
+
+
+# 应用场景
+我使用 flomo 主要是记录时不时出现的灵感，只需要敲几个字，打一个标签就行，不需要添加图片、识别即刻等功能
+
+# 改进
+大幅简化，iOS 端只保留了最基本的输入文字及标签功能，watchOS端仅保留输入文字功能
+
+# 新增
+可自动识别标签，无需提前设置（也不能提前设置，这功能被我删了😂）
+
+# iOS
+[下载链接](https://www.icloud.com/shortcuts/e993b177bc384d1694252d5b6092e67d)
+
+https://user-images.githubusercontent.com/58654928/111063045-8b0b0880-84e7-11eb-9754-960212ab87af.mp4
+
+# watchOS
+[下载链接](https://www.icloud.com/shortcuts/79ea9f927c7040089b20890e60834d5b)
+
+https://user-images.githubusercontent.com/58654928/111063042-88a8ae80-84e7-11eb-9234-c6e9bc7ccc0c.mp4
+
+
+
+
+
+
+
